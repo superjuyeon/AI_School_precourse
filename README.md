@@ -6,4 +6,4 @@
 
 ## [3주차 과제 (2020.06.10)](https://github.com/superjuyeon/GWANGJU_AI_PROJECT/blob/master/3주차_과제.ipynb)
 
-## [4주차 과제 (2020.06.16)]()
+## [4주차 과제 (2020.06.16)](https://github.com/superjuyeon/GWANGJU_AI_PROJECT/blob/master/4주차_과제.ipynb)
